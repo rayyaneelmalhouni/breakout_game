@@ -8,7 +8,7 @@ class Lives(Turtle):
         self.color("white")
         self.penup()
         self.hideturtle()
-        self.lives = 1000
+        self.lives = 3
         self.goto(-200, 220)
         self.display_lives()
 
